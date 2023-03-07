@@ -1,5 +1,3 @@
-console.log("in app");
-
 import PAGES from "./models/pageModel.js";
 import { onChangePage } from "./routes/router.js";
 import {
