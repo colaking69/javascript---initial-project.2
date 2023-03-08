@@ -17,3 +17,23 @@
 main {
   min-height: 87vh;
 }
+
+.logo-title {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #d4c3c3;
+  opacity: 1;
+}
+
+.gif-background {
+  height: 300px;
+  width: 100vw;
+  background-image: url("https://cdn.winsightmedia.com/platform/files/public/2020-12/background/GIF%20for%20homepage_1607531623.gif?VersionId=Jctlr5k7Arn520Yrr0mx8X0b2sl8Dh6g");
+  background-position: top;
+  background-size: cover;
+  opacity: 0.4;
+}
+
+.logo-font {
+  font-family: mistrully;
+}
