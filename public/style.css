@@ -37,3 +37,8 @@ main {
 .logo-font {
   font-family: mistrully;
 }
+
+#map {
+  height: 400px;
+  width: 100%;
+}
